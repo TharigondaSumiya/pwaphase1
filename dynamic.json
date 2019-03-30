@@ -1,0 +1,50 @@
+{
+  "profile":{
+    "img":"images/natural.jpg",
+    "name":"Annay",
+    "designation":"Software engineer",
+    "mobile":"9999999999",
+    "email":"Annay@gmail.com"
+  },
+  "career":{
+    "info":"to work hard"
+  },
+  "education":
+    [
+       {
+    "Sno":"1",
+    "Nameoftheinstitute":"MITS",
+    "Qualification":"B.Tech",
+    "Percentage":"97%",
+    "yop":"2015"
+  },
+  {
+    "Sno":"2",
+    "Nameoftheinstitute":"Chaitanya junior college",
+    "Qualification":"Intermediate",
+    "Percentage":"98%",
+    "yop":"2011"
+  },
+  {
+    "Sno":"3",
+    "Nameoftheinstitute":"Keshavareddy English medium high school",
+    "Qualification":"SSC",
+    "Percentage":"96%",
+    "yop":"2009"
+  }
+],
+"skills":[
+{
+  "name":"WEB TECHNOLOGIES",
+  "info":["HTML,CSS,JS"]
+},
+{
+  "name":"DATABASES",
+  "info":["Sql,Firebase,MangoDB,JDBC,Sql lite"]
+},
+{
+  "name":"OPERATING SYSTEMS",
+  "info":["Windows 7,8,9,10,Linux,Ubunto"]
+}
+]
+  }
